@@ -41,6 +41,7 @@
 			<a href="/dojo">Dojo List</a>
 			<a href= "/ninja">Ninja List</a>
 			<a href= "/publication">Book Club</a>
+			<a href= "/store">Store</a>
 		</div>
 	</div>
 	<div id=pageHeader class="container-fluid">
